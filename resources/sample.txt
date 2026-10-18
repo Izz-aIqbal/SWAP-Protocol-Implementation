@@ -1,0 +1,11 @@
+This is a sample text file for SWAP protocol testing.
+
+SWAP Protocol Features:
+- Binary header (12 bytes)
+- Big-Endian byte order
+- GET and POST methods
+- Content type detection
+- Persistent connections
+- Error handling
+
+File created: 2025-12-06 15:46:32

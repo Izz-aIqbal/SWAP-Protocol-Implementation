@@ -1,0 +1,209 @@
+2025-12-06 15:46:32,638 - INFO - Created sample file: index.html
+2025-12-06 15:46:32,641 - INFO - Created sample file: sample.txt
+2025-12-06 15:46:32,644 - INFO - Created sample file: test.json
+2025-12-06 15:46:32,704 - INFO - SWAP Server started on localhost:8080
+2025-12-06 15:49:21,246 - INFO - New connection from 127.0.0.1
+2025-12-06 15:49:21,257 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=11
+2025-12-06 15:49:21,258 - INFO - GET request for: /index.html
+2025-12-06 15:49:21,342 - INFO - Serving file: /index.html (358 bytes, type: text/html)
+2025-12-06 15:49:21,343 - INFO - Sent response to 127.0.0.1: status=OK, size=358 bytes
+2025-12-06 15:49:21,347 - INFO - Connection closed by 127.0.0.1
+2025-12-06 15:49:21,349 - INFO - Connection closed for 127.0.0.1
+2025-12-06 15:58:06,860 - INFO - Server stopped by user
+2025-12-06 15:58:30,459 - INFO - SWAP Server started on localhost:8080
+2025-12-06 15:59:01,825 - INFO - New connection from 127.0.0.1
+2025-12-06 15:59:01,826 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=11
+2025-12-06 15:59:01,827 - INFO - GET request for: /index.html
+2025-12-06 15:59:01,828 - INFO - Serving file: /index.html (358 bytes, type: text/html)
+2025-12-06 15:59:01,829 - INFO - Sent response to 127.0.0.1: status=OK, size=358 bytes
+2025-12-06 15:59:01,837 - INFO - Connection closed by 127.0.0.1
+2025-12-06 15:59:01,838 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:04:18,288 - INFO - New connection from 127.0.0.1
+2025-12-06 16:04:18,302 - INFO - Request from 127.0.0.1: type=1, content_type=1, payload_len=11
+2025-12-06 16:04:18,303 - INFO - GET request for: /sample.txt
+2025-12-06 16:04:18,351 - INFO - Serving file: /sample.txt (254 bytes, type: text/plain)
+2025-12-06 16:04:18,352 - INFO - Sent response to 127.0.0.1: status=OK, size=254 bytes
+2025-12-06 16:04:18,358 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:04:18,361 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:05:24,009 - INFO - New connection from 127.0.0.1
+2025-12-06 16:05:24,025 - INFO - Request from 127.0.0.1: type=2, content_type=6, payload_len=18
+2025-12-06 16:05:24,034 - INFO - Saved upload: upload_20251206_160524.dat (18 bytes)
+2025-12-06 16:05:24,036 - INFO - Sent response to 127.0.0.1: status=OK, size=52 bytes
+2025-12-06 16:05:24,037 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:05:24,040 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:06:23,447 - INFO - New connection from 127.0.0.1
+2025-12-06 16:08:18,503 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=11
+2025-12-06 16:08:18,504 - INFO - GET request for: /index.html
+2025-12-06 16:08:18,506 - INFO - Serving file: /index.html (358 bytes, type: text/html)
+2025-12-06 16:08:18,508 - INFO - Sent response to 127.0.0.1: status=OK, size=358 bytes
+2025-12-06 16:08:59,383 - INFO - Request from 127.0.0.1: type=1, content_type=5, payload_len=10
+2025-12-06 16:08:59,384 - INFO - GET request for: /test.json
+2025-12-06 16:08:59,435 - INFO - Serving file: /test.json (198 bytes, type: application/json)
+2025-12-06 16:08:59,437 - INFO - Sent response to 127.0.0.1: status=OK, size=198 bytes
+2025-12-06 16:09:45,125 - INFO - Request from 127.0.0.1: type=2, content_type=6, payload_len=17
+2025-12-06 16:09:45,127 - INFO - Saved upload: upload_20251206_160945.dat (17 bytes)
+2025-12-06 16:09:45,129 - INFO - Sent response to 127.0.0.1: status=OK, size=52 bytes
+2025-12-06 16:10:21,859 - INFO - Request from 127.0.0.1: type=2, content_type=6, payload_len=254
+2025-12-06 16:10:21,862 - INFO - Saved upload: upload_20251206_161021.dat (254 bytes)
+2025-12-06 16:10:21,865 - INFO - Sent response to 127.0.0.1: status=OK, size=53 bytes
+2025-12-06 16:10:36,458 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:10:36,459 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:10:36,461 - INFO - New connection from 127.0.0.1
+2025-12-06 16:10:36,461 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:10:36,462 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:20:16,632 - INFO - Server stopped by user
+2025-12-06 16:20:37,404 - INFO - SWAP Server started on localhost:8080
+2025-12-06 16:21:26,378 - INFO - New connection from 127.0.0.1
+2025-12-06 16:21:26,378 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=11
+2025-12-06 16:21:26,379 - INFO - GET request for: /index.html
+2025-12-06 16:21:26,380 - INFO - Serving file: /index.html (358 bytes, type: text/html)
+2025-12-06 16:21:26,381 - INFO - Sent response to 127.0.0.1: status=OK, size=358 bytes
+2025-12-06 16:21:27,887 - INFO - Request from 127.0.0.1: type=1, content_type=1, payload_len=11
+2025-12-06 16:21:27,888 - INFO - GET request for: /sample.txt
+2025-12-06 16:21:27,889 - INFO - Serving file: /sample.txt (254 bytes, type: text/plain)
+2025-12-06 16:21:27,890 - INFO - Sent response to 127.0.0.1: status=OK, size=254 bytes
+2025-12-06 16:21:29,394 - INFO - Request from 127.0.0.1: type=1, content_type=5, payload_len=10
+2025-12-06 16:21:29,395 - INFO - GET request for: /test.json
+2025-12-06 16:21:29,397 - INFO - Serving file: /test.json (198 bytes, type: application/json)
+2025-12-06 16:21:29,398 - INFO - Sent response to 127.0.0.1: status=OK, size=198 bytes
+2025-12-06 16:21:30,903 - INFO - Request from 127.0.0.1: type=1, content_type=1, payload_len=11
+2025-12-06 16:21:30,903 - INFO - GET request for: /sample.txt
+2025-12-06 16:21:30,904 - INFO - Serving file: /sample.txt (254 bytes, type: text/plain)
+2025-12-06 16:21:30,905 - INFO - Sent response to 127.0.0.1: status=OK, size=254 bytes
+2025-12-06 16:21:32,413 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=17
+2025-12-06 16:21:32,413 - INFO - GET request for: /nonexistent.html
+2025-12-06 16:21:32,414 - WARNING - File not found: /nonexistent.html
+2025-12-06 16:21:32,414 - INFO - Sent response to 127.0.0.1: status=NOT_FOUND, size=33 bytes
+2025-12-06 16:21:33,917 - INFO - Request from 127.0.0.1: type=2, content_type=6, payload_len=49
+2025-12-06 16:21:33,919 - INFO - Saved upload: upload_20251206_162133.dat (49 bytes)
+2025-12-06 16:21:33,919 - INFO - Sent response to 127.0.0.1: status=OK, size=52 bytes
+2025-12-06 16:21:35,921 - INFO - Request from 127.0.0.1: type=2, content_type=6, payload_len=96
+2025-12-06 16:21:35,929 - INFO - Saved upload: upload_20251206_162135.dat (96 bytes)
+2025-12-06 16:21:35,929 - INFO - Sent response to 127.0.0.1: status=OK, size=52 bytes
+2025-12-06 16:21:37,931 - INFO - Request from 127.0.0.1: type=2, content_type=6, payload_len=10
+2025-12-06 16:21:37,937 - INFO - Saved upload: upload_20251206_162137.dat (10 bytes)
+2025-12-06 16:21:37,938 - INFO - Sent response to 127.0.0.1: status=OK, size=52 bytes
+2025-12-06 16:21:39,973 - INFO - Request from 127.0.0.1: type=1, content_type=1, payload_len=11
+2025-12-06 16:21:40,003 - INFO - GET request for: /sample.txt
+2025-12-06 16:21:40,011 - INFO - Serving file: /sample.txt (254 bytes, type: text/plain)
+2025-12-06 16:21:40,020 - INFO - Sent response to 127.0.0.1: status=OK, size=254 bytes
+2025-12-06 16:21:41,057 - INFO - Request from 127.0.0.1: type=1, content_type=5, payload_len=10
+2025-12-06 16:21:41,057 - INFO - GET request for: /test.json
+2025-12-06 16:21:41,059 - INFO - Serving file: /test.json (198 bytes, type: application/json)
+2025-12-06 16:21:41,060 - INFO - Sent response to 127.0.0.1: status=OK, size=198 bytes
+2025-12-06 16:21:42,066 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=11
+2025-12-06 16:21:42,067 - INFO - GET request for: /index.html
+2025-12-06 16:21:42,069 - INFO - Serving file: /index.html (358 bytes, type: text/html)
+2025-12-06 16:21:42,070 - INFO - Sent response to 127.0.0.1: status=OK, size=358 bytes
+2025-12-06 16:21:43,077 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=17
+2025-12-06 16:21:43,078 - INFO - GET request for: /nonexistent.html
+2025-12-06 16:21:43,079 - WARNING - File not found: /nonexistent.html
+2025-12-06 16:21:43,080 - INFO - Sent response to 127.0.0.1: status=NOT_FOUND, size=33 bytes
+2025-12-06 16:21:44,585 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=11
+2025-12-06 16:21:44,587 - INFO - GET request for: /index.html
+2025-12-06 16:21:44,588 - INFO - Serving file: /index.html (358 bytes, type: text/html)
+2025-12-06 16:21:44,589 - INFO - Sent response to 127.0.0.1: status=OK, size=358 bytes
+2025-12-06 16:21:45,597 - INFO - Request from 127.0.0.1: type=1, content_type=1, payload_len=11
+2025-12-06 16:21:45,603 - INFO - GET request for: /sample.txt
+2025-12-06 16:21:45,605 - INFO - Serving file: /sample.txt (254 bytes, type: text/plain)
+2025-12-06 16:21:45,606 - INFO - Sent response to 127.0.0.1: status=OK, size=254 bytes
+2025-12-06 16:21:46,614 - INFO - Request from 127.0.0.1: type=1, content_type=5, payload_len=10
+2025-12-06 16:21:46,615 - INFO - GET request for: /test.json
+2025-12-06 16:21:46,617 - INFO - Serving file: /test.json (198 bytes, type: application/json)
+2025-12-06 16:21:46,618 - INFO - Sent response to 127.0.0.1: status=OK, size=198 bytes
+2025-12-06 16:21:47,626 - INFO - Request from 127.0.0.1: type=1, content_type=3, payload_len=10
+2025-12-06 16:21:47,627 - INFO - GET request for: /image.jpg
+2025-12-06 16:21:47,628 - WARNING - File not found: /image.jpg
+2025-12-06 16:21:47,629 - INFO - Sent response to 127.0.0.1: status=NOT_FOUND, size=26 bytes
+2025-12-06 16:21:50,136 - INFO - Request from 127.0.0.1: type=1, content_type=6, payload_len=17
+2025-12-06 16:21:50,137 - INFO - GET request for: /../../etc/passwd
+2025-12-06 16:21:50,145 - ERROR - Path validation error: Security violation: Path traversal attempt
+2025-12-06 16:21:50,146 - INFO - Sent response to 127.0.0.1: status=BAD_REQUEST, size=42 bytes
+2025-12-06 16:21:50,650 - INFO - Request from 127.0.0.1: type=1, content_type=6, payload_len=1
+2025-12-06 16:21:50,651 - INFO - GET request for: /
+2025-12-06 16:21:50,653 - INFO - Serving file: / (358 bytes, type: text/html)
+2025-12-06 16:21:50,654 - INFO - Sent response to 127.0.0.1: status=OK, size=358 bytes
+2025-12-06 16:21:51,161 - INFO - Request from 127.0.0.1: type=1, content_type=6, payload_len=0
+2025-12-06 16:21:51,162 - INFO - GET request for: 
+2025-12-06 16:21:51,164 - INFO - Serving file:  (358 bytes, type: text/html)
+2025-12-06 16:21:51,165 - INFO - Sent response to 127.0.0.1: status=OK, size=358 bytes
+2025-12-06 16:21:51,671 - INFO - Request from 127.0.0.1: type=1, content_type=6, payload_len=7
+2025-12-06 16:21:51,673 - INFO - GET request for: invalid
+2025-12-06 16:21:51,674 - WARNING - File not found: invalid
+2025-12-06 16:21:51,675 - INFO - Sent response to 127.0.0.1: status=NOT_FOUND, size=23 bytes
+2025-12-06 16:21:52,179 - INFO - Request from 127.0.0.1: type=2, content_type=6, payload_len=1024
+2025-12-06 16:21:52,182 - INFO - Saved upload: upload_20251206_162152.dat (1024 bytes)
+2025-12-06 16:21:52,183 - INFO - Sent response to 127.0.0.1: status=OK, size=54 bytes
+2025-12-06 16:21:53,694 - INFO - New connection from 127.0.0.1
+2025-12-06 16:21:53,719 - INFO - New connection from 127.0.0.1
+2025-12-06 16:21:53,735 - INFO - New connection from 127.0.0.1
+2025-12-06 16:21:53,737 - INFO - Request from 127.0.0.1: type=1, content_type=1, payload_len=11
+2025-12-06 16:21:53,738 - INFO - GET request for: /sample.txt
+2025-12-06 16:21:53,739 - INFO - Serving file: /sample.txt (254 bytes, type: text/plain)
+2025-12-06 16:21:53,741 - INFO - Sent response to 127.0.0.1: status=OK, size=254 bytes
+2025-12-06 16:21:54,248 - INFO - Request from 127.0.0.1: type=1, content_type=1, payload_len=11
+2025-12-06 16:21:54,249 - INFO - GET request for: /sample.txt
+2025-12-06 16:21:54,251 - INFO - Serving file: /sample.txt (254 bytes, type: text/plain)
+2025-12-06 16:21:54,252 - INFO - Sent response to 127.0.0.1: status=OK, size=254 bytes
+2025-12-06 16:21:54,759 - INFO - Request from 127.0.0.1: type=1, content_type=1, payload_len=11
+2025-12-06 16:21:54,760 - INFO - GET request for: /sample.txt
+2025-12-06 16:21:54,762 - INFO - Serving file: /sample.txt (254 bytes, type: text/plain)
+2025-12-06 16:21:54,763 - INFO - Sent response to 127.0.0.1: status=OK, size=254 bytes
+2025-12-06 16:21:55,269 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:21:55,270 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:21:55,271 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:21:55,271 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:21:55,272 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:21:55,274 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:21:56,288 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:21:56,290 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:23:25,136 - INFO - New connection from 127.0.0.1
+2025-12-06 16:23:25,138 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=11
+2025-12-06 16:23:25,138 - INFO - GET request for: /index.html
+2025-12-06 16:23:25,140 - INFO - Serving file: /index.html (358 bytes, type: text/html)
+2025-12-06 16:23:25,141 - INFO - Sent response to 127.0.0.1: status=OK, size=358 bytes
+2025-12-06 16:23:26,146 - INFO - Request from 127.0.0.1: type=1, content_type=1, payload_len=11
+2025-12-06 16:23:26,147 - INFO - GET request for: /sample.txt
+2025-12-06 16:23:26,148 - INFO - Serving file: /sample.txt (254 bytes, type: text/plain)
+2025-12-06 16:23:26,148 - INFO - Sent response to 127.0.0.1: status=OK, size=254 bytes
+2025-12-06 16:23:27,153 - INFO - Request from 127.0.0.1: type=2, content_type=6, payload_len=20
+2025-12-06 16:23:27,156 - INFO - Saved upload: upload_20251206_162327.dat (20 bytes)
+2025-12-06 16:23:27,157 - INFO - Sent response to 127.0.0.1: status=OK, size=52 bytes
+2025-12-06 16:23:28,160 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=13
+2025-12-06 16:23:28,161 - INFO - GET request for: /invalid.html
+2025-12-06 16:23:28,163 - WARNING - File not found: /invalid.html
+2025-12-06 16:23:28,164 - INFO - Sent response to 127.0.0.1: status=NOT_FOUND, size=29 bytes
+2025-12-06 16:23:28,166 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:23:28,168 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:24:10,083 - INFO - New connection from 127.0.0.1
+2025-12-06 16:24:10,085 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:24:10,086 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:34:52,519 - INFO - Created sample file: index.html
+2025-12-06 16:34:52,522 - INFO - Created sample file: sample.txt
+2025-12-06 16:34:52,524 - INFO - Created sample file: test.json
+2025-12-06 16:34:52,554 - INFO - SWAP Server started on localhost:8888
+2025-12-06 16:34:54,537 - INFO - New connection from 127.0.0.1
+2025-12-06 16:34:54,557 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:34:54,560 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:34:54,567 - INFO - New connection from 127.0.0.1
+2025-12-06 16:34:54,593 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=11
+2025-12-06 16:34:54,594 - INFO - GET request for: /index.html
+2025-12-06 16:34:54,707 - INFO - Serving file: /index.html (358 bytes, type: text/html)
+2025-12-06 16:34:54,709 - INFO - Sent response to 127.0.0.1: status=OK, size=358 bytes
+2025-12-06 16:34:54,711 - INFO - Connection closed by 127.0.0.1
+2025-12-06 16:34:54,715 - INFO - Connection closed for 127.0.0.1
+2025-12-06 16:56:14,521 - INFO - Server stopped by user
+2025-12-10 09:25:25,486 - INFO - Created sample file: index.html
+2025-12-10 09:25:25,489 - INFO - Created sample file: sample.txt
+2025-12-10 09:25:25,490 - INFO - Created sample file: test.json
+2025-12-10 09:25:25,508 - INFO - SWAP Server started on localhost:8888
+2025-12-10 09:25:27,496 - INFO - New connection from 127.0.0.1
+2025-12-10 09:25:27,498 - INFO - Connection closed by 127.0.0.1
+2025-12-10 09:25:27,499 - INFO - Connection closed for 127.0.0.1
+2025-12-10 09:25:27,501 - INFO - New connection from 127.0.0.1
+2025-12-10 09:25:27,501 - INFO - Request from 127.0.0.1: type=1, content_type=2, payload_len=11
+2025-12-10 09:25:27,502 - INFO - GET request for: /index.html
+2025-12-10 09:25:27,536 - INFO - Serving file: /index.html (358 bytes, type: text/html)
+2025-12-10 09:25:27,537 - INFO - Sent response to 127.0.0.1: status=OK, size=358 bytes
+2025-12-10 09:25:27,538 - INFO - Connection closed by 127.0.0.1
+2025-12-10 09:25:27,539 - INFO - Connection closed for 127.0.0.1
